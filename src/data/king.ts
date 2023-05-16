@@ -1,4 +1,4 @@
-import { Character } from './character.ts';
+import { Character } from '../character.ts';
 
 export class King extends Character {
   reignLength;

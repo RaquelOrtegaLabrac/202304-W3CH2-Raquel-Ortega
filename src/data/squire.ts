@@ -1,4 +1,4 @@
-import { Character } from './character.ts';
+import { Character } from '../character.ts';
 import { Swordsman } from './swordsman.ts';
 
 export class Squire extends Character {
