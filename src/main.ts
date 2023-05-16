@@ -13,7 +13,7 @@ const html = document.querySelector<HTMLDivElement>('.characters-list')!;
 
 const joffrey = kingTemplate(characterList[0], 'img/joffrey.jpg');
 
-const jamie = swordsmanTemplate(characterList[1], 'img/jaime.jpg');
+const jamie = swordsmanTemplate(characterList[1], 'img/jamie.jpg');
 
 const daenerys = swordsmanTemplate(characterList[2], 'img/daenerys.jpg');
 
