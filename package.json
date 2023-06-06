@@ -16,7 +16,7 @@
     "eslint-config-prettier": "^8.8.0",
     "husky": "^8.0.0",
     "typescript": "^5.0.2",
-    "vite": "^4.3.2"
+    "vite": "^4.3.9"
   },
   "dependencies": {
     "install": "^0.13.0",
