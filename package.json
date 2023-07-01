@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "install": "^0.13.0",
-    "npm": "^9.6.6"
+    "npm": "^9.7.2"
   },
   "prettier": {
     "singleQuote": true
